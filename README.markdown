@@ -23,7 +23,7 @@ To run the development version:
 
    Now the entire project will be in the unisubs directory.
 
-2. Install VirtualBox and vagrant if you don't have them yet. Then type:
+2. Install VirtualBox and vagrant if you don't have them yet. Then move into the "unisubs" directory and type:
 
         vagrant up
 
