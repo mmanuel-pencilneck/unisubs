@@ -39,7 +39,7 @@ To run the development version:
 
    Now run following command:
 
-        ./bootstrap-vagrant.sh
+        bin/bootstrap-vagrant.sh
 
    It's safe to run `bootstrap-vagrant.sh` multiple times if something goes
    wrong (like PyPi goes down).
